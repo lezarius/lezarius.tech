@@ -8,7 +8,7 @@
             <div class="col-md-12 wow fadeIn delay-05s">
               <div class="banner-text">
                 <h2>Salut, je suis <span>Ronce</span> Mazabraud,</h2>
-                <p>Une scientifique d'internet <br>je fais de l'admin sys, et du dev web</p>
+                <p>Une scientifique d'internet <br>je fais de l'administration système, et du développement web</p>
               </div>
               <div class="overlay-detail text-center">
                   <a href="#about"><i class="fa fa-angle-down"></i></a>
@@ -24,19 +24,19 @@
       <div class="row">
         <div class="col-md-6 text-right">
           <h2 class="title-text">
-            Découvrire<br><span class="deco">Ronce</span> Mazabraud
+            Découvrir<br><span class="deco">Ronce</span> Mazabraud
           </h2>
         </div>
         <div class="col-md-6 text-left">
           <div class="about-text">
-            <p>Née avec la génération internet, je m'y suis mis très jeune. J'ai commencé comme beaucoup par jouée, avant de découvrire que je pouvais faire bien plus avec un simple ordinateur.</p>
+            <p>Née avec la génération internet, je m'y suis mise très jeune. J'ai commencé comme beaucoup par jouer, avant de découvrir que je pouvais faire bien plus avec un simple ordinateur.</p>
             <p>&nbsp;</p>
-            <p>Voila comment je suis née à nouveau y'a qu'elle que année j'ai découvert les joua de la programation web puis celle d'administrée des machine, puis un jours je suis tombé dans arch linux. Et me voici de tout coeur avec le libre et l'open source <3 </p>
+            <p>Voila comment je suis née à nouveau! Il y a quelques années, j'ai découvert les joies de la programmation web puis celle d'administrer des machines, et un jour je suis tombée dans Arch Linux</u>. Et me voici de tout cœur avec le libre et l'open source <3 </p>
             <p>&nbsp;</p>
             <ul class="abt-list">
-              <li>- Pro, logicielle libre.</li>
-              <li>- Linux love.</li>
-              <li>- RTFM best think ever.</li>
+              <li>- Pro-logiciel libre</li>
+              <li>- Linux lover</li>
+              <li>- RTFM: best thing ever</li>
               <li>- rm -rf / --force</li>
             </ul>
           </div>
