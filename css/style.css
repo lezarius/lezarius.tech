@@ -315,7 +315,7 @@ footer {
     padding-bottom: 24px;
 }
 .navbar-brand{
-	margin-top: 9px;
+	margin-top: 0px;
 }
 .grid-item { width: 200px; }
 .grid-item--width2 { width: 400px; }
