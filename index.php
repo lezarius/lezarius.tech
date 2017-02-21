@@ -24,19 +24,20 @@
       <div class="row">
         <div class="col-md-6 text-right">
           <h2 class="title-text">
-            Meet<br><span class="deco">Laura</span> Thomson
+            Découvrire<br><span class="deco">Ronce</span> Mazabraud
           </h2>
         </div>
         <div class="col-md-6 text-left">
           <div class="about-text">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p>Née avec la génération internet, je m'y suis mis très jeune. J'ai commencé comme beaucoup par jouée, avant de découvrire que je pouvais faire bien plus avec un simple ordinateur.</p>
             <p>&nbsp;</p>
-            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>Voila comment je suis née à nouveau y'a qu'elle que année j'ai découvert les joua de la programation web puis celle d'administrée des machine, puis un jours je suis tombé dans arch linux. Et me voici de tout coeur avec le libre et l'open source <3 </p>
             <p>&nbsp;</p>
             <ul class="abt-list">
-              <li>- Excepteur sint occaecat cupidatat non proident.</li>
-              <li>- Duis aute irure dolor in reprehenderit.</li>
-              <li>- Ask the experts.</li>
+              <li>- Pro, logicielle libre.</li>
+              <li>- Linux love.</li>
+              <li>- RTFM best think ever.</li>
+              <li>- rm -rf / --force</li>
             </ul>
           </div>
         </div>
