@@ -19,7 +19,7 @@
         </div>
         </div>
       </div>
-  <section id="about" class="">
+  <section id="" class="section-padding wow fadeIn delay-05s">
     <div class="container">
       <div class="row">
         <div class="col-md-6 text-right">
