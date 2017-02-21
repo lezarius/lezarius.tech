@@ -13,7 +13,7 @@
           <div class="col-md-6 text-right">
               <ul class="social-list">
                   <li>
-                      <a href="twitter.com/lezarius">
+                      <a href="http://twitter.com/lezarius">
                           <i class="fa fa-twitter"></i>
                       </a>
                   </li>
