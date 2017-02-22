@@ -8,7 +8,7 @@
             <div class="col-md-12 wow fadeIn delay-05s">
               <div class="banner-text">
                 <h2>Alors, envie de plus me connaitre ?</h2>
-                <p>Tiens si dessous tu trouvera <br>Un cv, and an resume !</p>
+                <p>Tiens si dessous tu trouvera <br>Un cv, and a resume !</p>
               </div>
               <div class="overlay-detail text-center">
                   <a href="#about"><i class="fa fa-angle-down"></i></a>
@@ -30,8 +30,9 @@
         <div class="col-md-6 text-left">
           <div class="about-text">
            <button><a href="http://cv.lezarius.tech">CV (français)</a></button>
-           <br>
+           <div>
            <button><a href="http://resume.lezarius.tech">Resume (Anglais)</a></button>
+          </div>
           </div>
         </div>
       </div>
