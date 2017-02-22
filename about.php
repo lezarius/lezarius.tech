@@ -29,7 +29,9 @@
         </div>
         <div class="col-md-6 text-left">
           <div class="about-text">
-           
+           <button><a href="http://cv.lezarius.tech">CV (français)</a></button>
+           <br>
+           <button><a href="http://resume.lezarius.tech">Resume (Anglais)</a></button>
           </div>
         </div>
       </div>
