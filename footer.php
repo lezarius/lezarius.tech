@@ -31,4 +31,4 @@
     <script src="js/jquery.bxslider.min.js"></script>
     <script src="js/wow.js"></script>
     <script src="js/custom.js"></script>
-    <script src="contactform/contactform.js"></script>
+
