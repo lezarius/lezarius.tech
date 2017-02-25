@@ -29,10 +29,18 @@
         </div>
         <div class="col-md-6 text-left">
           <div class="about-text">
-           <button class="btn btn-primary btn-lg"><a href="http://cv.lezarius.tech">CV (français)</a></button>
-           <div>
+          
+          <div>
+           <button class="btn btn-primary btn-lg">
+           <span class="glyphicon glyphicon-briefcase" aria-hiden="true"></span>
+           <a href="http://cv.lezarius.tech">CV (français)</a>
+           </button>
+           </div>
+          
+           <div >
            <button class="btn btn-primary btn-lg"><a href="http://resume.lezarius.tech">Resume (Anglais)</a></button>
           </div>
+          
           </div>
         </div>
       </div>
