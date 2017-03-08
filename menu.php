@@ -28,7 +28,7 @@
             </div>
             <div class="collapse navbar-collapse" id="lauraMenu">
               <ul class="nav navbar-nav navbar-right navbar-border">
-                <li><a href="about.php">About</a></li>
+                <li><a href="cv.php">CV/Resume</a></li>
                 <li><a href="portfolio.php">Portfolio</a></li>
                 <li><a href="contact.php">Contact Us</a></li>
               </ul>
