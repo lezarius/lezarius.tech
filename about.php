@@ -30,7 +30,7 @@
         <div class="col-md-6 text-left">
           <div class="about-text">
           <h3>Français</h3>
-       <p> Vous pouvez trouvez par ici mon <a href="http://cv.lezarius.tech/"> CV  </p>
+       <p> Vous pouvez trouvez par ici mon <a href="http://cv.lezarius.tech/">CV</a></p>
        <br>
        <h3>Anglais</h3>
        Here you can found me <a href="http://resume.lezarius.tech/">resume</a>
