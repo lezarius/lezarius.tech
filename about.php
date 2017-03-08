@@ -32,13 +32,16 @@
           
           <div>
            <button class="btn btn-primary btn-lg">
-           <span class="glyphicon glyphicon-briefcase" aria-hiden="true"></span>
+           <span>
            <a href="http://cv.lezarius.tech">CV (français)</a>
+           </span>
            </button>
            </div>
           
            <div >
-           <button class="btn btn-primary btn-lg">Resume (Anglais)</button>
+           <button class="btn btn-primary btn-lg">
+           <span><a href="http://resume.lezarius.tech">Resume (Anglais)</a></span>
+           </button>
           </div>
           
           </div>
