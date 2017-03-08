@@ -29,20 +29,11 @@
         </div>
         <div class="col-md-6 text-left">
           <div class="about-text">
-          
-          <div>
-           <button class="btn btn-primary btn-lg">
-           <span>
-           <a href="http://cv.lezarius.tech">CV (français)</a>
-           </span>
-           </button>
-           </div>
-          
-           <div >
-           <button class="btn btn-primary btn-lg">
-           <span><a href="http://resume.lezarius.tech">Resume (Anglais)</a></span>
-           </button>
-          </div>
+          <h3>Français</h3>
+       <p> Vous pouvez trouvez par ici mon <a href="http://cv.lezarius.tech/"> CV  </p>
+       <br>
+       <h3>Anglais</h3>
+       Here you can found me <a href="http://resume.lezarius.tech/">resume</a>
           
           </div>
         </div>
