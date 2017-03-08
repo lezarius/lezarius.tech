@@ -125,6 +125,13 @@ Responsive media queries
 	background-size: cover;
 	margin-bottom: -3px;
 }
+
+#cv{
+    background: url('../img/about-banner.jpg') no-repeat;
+    background-size: cover;
+    margin-bottom: -3px;
+}
+
 .section-padding{
 	padding: 60px 0px;
 }

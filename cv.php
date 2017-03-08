@@ -10,14 +10,16 @@
                 <h2>Alors, envie de plus me connaitre ?</h2>
                 <p>Tiens si dessous tu trouvera <br>Un cv, and a resume !</p>
               </div>
-            
+              <div class="overlay-detail text-center">
+                  <a href="#cv"><i class="fa fa-angle-down"></i></a>
+              </div>
             </div>
           </div>
           </div>
         </div>
         </div>
       </div>
-  <section id="#cv" class="section-padding wow fadeIn delay-05s">
+  <section id="cv" class="section-padding wow fadeIn delay-05s">
     <div class="container">
       <div class="row">
         <div class="col-md-6 text-right">
