@@ -38,7 +38,7 @@
            </div>
           
            <div >
-           <button class="btn btn-primary btn-lg"><a href="http://resume.lezarius.tech">Resume (Anglais)</a></button>
+           <button class="btn btn-primary btn-lg">Resume (Anglais)</button>
           </div>
           
           </div>
