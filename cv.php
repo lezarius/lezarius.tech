@@ -10,9 +10,7 @@
                 <h2>Alors, envie de plus me connaitre ?</h2>
                 <p>Tiens si dessous tu trouvera <br>Un cv, and a resume !</p>
               </div>
-              <div class="overlay-detail text-center">
-                  <a href="#cv"><i class="fa fa-angle-down"></i></a>
-              </div>
+            
             </div>
           </div>
           </div>
