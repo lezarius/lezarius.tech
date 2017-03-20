@@ -30,7 +30,7 @@
         <div class="col-md-6 text-left">
           <div class="about-text">
           <h3>Mail</h3>
-      <p>lezariusscience@gmail.com</p>
+      <p>ronce@lezarius.tech</p>
           
           </div>
         </div>
