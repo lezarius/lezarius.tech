@@ -1,4 +1,5 @@
  <head>
+ <meta name="google-site-verification" content="8rMb5juIFV5plc6aOnYl62G0VnP2jyAzu4nn0DD29mc" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Lezarius.tech</title>
