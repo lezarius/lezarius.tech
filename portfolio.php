@@ -40,7 +40,7 @@
       <p>Le blog utilise le CMS ghost. Les technologies utilisez sont node.js pour ghost, nginx pour liée le blog au nom de domaine, et mariaDB pour la base de donné.</p>
 
       <h3>Lezarius.science</h3>
-      <p><a href="www.lezarius.science">lezarius.science</a> est mon site perso, <a href="https://github.com/lezarius/Lezarius">code source</a> disponible</p>
+      <p><a href="http://www.lezarius.science">lezarius.science</a> est mon site perso, <a href="https://github.com/lezarius/Lezarius">code source</a> disponible</p>
       <p>Les techno utilisez pour l'hebergement sont le combo php-fpm(v7) + Nginx</p>         
           </div>
         </div>
