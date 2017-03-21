@@ -31,7 +31,7 @@
               <ul class="nav navbar-nav navbar-right navbar-border">
                 <li><a href="cv.php">CV/Resume</a></li>
                 <li><a href="portfolio.php">Portfolio</a></li>
-                <li><a href="contact.php">Contact Us</a></li>
+                <li><a href="contact.php">Contact</a></li>
               </ul>
             </div>
           </div>
