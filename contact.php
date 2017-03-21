@@ -7,7 +7,7 @@
           <div class="row">
             <div class="col-md-12 wow fadeIn delay-05s">
               <div class="banner-text">
-                <h2>Page en construction</h2>
+                <h2>Un question ? Un travaille ? N'hésitez pas contactez moi !</h2>
                 
               </div>
               <div class="overlay-detail text-center">
@@ -29,8 +29,8 @@
         </div>
         <div class="col-md-6 text-left">
           <div class="about-text">
-          <h3>Mail</h3>
-      <p>ronce@lezarius.tech</p>
+          <h3>Mail:</h3>
+      <p><a href="mailto:ronce@lezarius.tech">ronce@lezarius.tech</a></p>
           
           </div>
         </div>
