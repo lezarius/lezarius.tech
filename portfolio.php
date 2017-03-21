@@ -7,7 +7,7 @@
           <div class="row">
             <div class="col-md-12 wow fadeIn delay-05s">
               <div class="banner-text">
-                <h2>Toute mes création web, et leurs hébergement.</h2>
+                <h2>Toutes mes créations web, et leurs hébergements.</h2>
                 
               </div>
               <div class="overlay-detail text-center">
@@ -21,7 +21,7 @@
       </div>
     <div class="container">
       <div class="row">
-      <h2>Tous mes services fonctionne sur mon propre serveur, sous debian 8.</h2>
+      <h2>Tous mes services fonctionnent sur mon propre serveur, sous debian 8.</h2>
         <div class="col-md-6 text-left">
          <div class="about-text">
           <h3>Lezarius.tech</h3>

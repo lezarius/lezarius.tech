@@ -7,7 +7,8 @@
           <div class="row">
             <div class="col-md-12 wow fadeIn delay-05s">
               <div class="banner-text">
-                <h2>Un question ? Un travaille ? N'hésitez pas contactez moi !</h2>
+                <h2>Une question ? Une offre d'emploi ?</h2>
+                <h2>N'hésitez pas, contactez-moi !</h2>
                 
               </div>
               <div class="overlay-detail text-center">
