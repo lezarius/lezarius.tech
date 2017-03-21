@@ -37,7 +37,7 @@
               <li>- Pro-logiciel libre</li>
               <li>- Linux lover</li>
               <li>- RTFM: best thing ever</li>
-              <li>- rm -rf / --force</li>
+              <li>- rm -rf / --no-preserve-root</li>
             </ul>
           </div>
         </div>
