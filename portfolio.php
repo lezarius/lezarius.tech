@@ -21,10 +21,11 @@
       </div>
     <div class="container">
       <div class="row">
-        <div class="col-md-6 text-right">
+        <div class="col-md-6 text-left">
          <div class="about-text">
-          <h3>Mail:</h3>
-      <p><a href="mailto:ronce@lezarius.tech">ronce@lezarius.tech</a></p>
+          <h3>Lezarius.tech</h3>
+      <p><a href="www.lezarius.tech">lezarius.tech</a> est mon site profesionel, disponible sous <a href="https://github.com/lezarius/lezarius.tech">github</a></p>
+      <p>Les techno utilisez pour l'hebergement sont le combo php-fpm(v7) + Nginx + MariaDB, tout cela heberger sur mon serveur perso tournant sous debian 8.</p>
           <h3>Téléphone :</h3>
       <p>Mon téléphone, <a href="tel:+33753345477">07 53 34 54 77</a> , uniquement en appel. De 9h à 19h.</p>          
           </div>
