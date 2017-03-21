@@ -30,7 +30,7 @@
         
          <h3>CV and resume</h3>
       <p><a href="http://www.cv.lezarius.tech/">cv.lezarius.tech</a> ou <a href="http://www.resume.lezarius.tech/">resume.lezarius.tech</a>  sont mes CV respectivement en français et en anglais. (Code source disponible <a href="https://github.com/lezarius/CV">ici</a> ou <a href="https://github.com/lezarius/resume">ici</a>) </p>
-      <p>Les techno utilisez pour l'hébergement sont php-fpm(v7) et Nginx.</p>        
+      <p>Les techno utilisées pour l'hébergement sont php-fpm(v7) et Nginx.</p>        
           </div>
         </div>
         <div class="col-md-6 text-left">
@@ -41,7 +41,7 @@
 
       <h3>Lezarius.science</h3>
       <p><a href="http://www.lezarius.science">lezarius.science</a> est mon site perso, <a href="https://github.com/lezarius/Lezarius">code source</a> disponible</p>
-      <p>Les techno utilisez pour l'hebergement sont le combo php-fpm(v7) + Nginx</p>         
+      <p>Les techno utilisées pour l'hebergement sont le combo php-fpm(v7) + Nginx</p>         
           </div>
         </div>
 
