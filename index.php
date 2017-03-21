@@ -7,7 +7,7 @@
           <div class="row">
             <div class="col-md-12 wow fadeIn delay-05s">
               <div class="banner-text">
-                <h2>Salut, je suis <span>Ronce</span> Mazabraud,</h2>
+                <h2>Bonjours, je suis <span>Ronce</span> Mazabraud,</h2>
                 <p>Une scientifique d'internet <br>je fais de l'administration système,<br> et du développement web</p>
               </div>
               <div class="overlay-detail text-center">
