@@ -7,7 +7,7 @@
           <div class="row">
             <div class="col-md-12 wow fadeIn delay-05s">
               <div class="banner-text">
-                <h2>Page en cours de construction.</h2>
+                <h2>Toute mes création web, et leurs hebergement.</h2>
                 
               </div>
               <div class="overlay-detail text-center">
