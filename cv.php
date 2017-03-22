@@ -7,8 +7,10 @@
           <div class="row">
             <div class="col-md-12 wow fadeIn delay-05s">
               <div class="banner-text">
-                <h2>Alors, envie de plus me connaitre ?</h2>
-                <p>Tiens, ci-dessous tu trouveras <br>un cv, and a resume!</p>
+
+                <h2>Alors, envie de mieux me connaître ?</h2>
+                <p>Tenez, ci-dessous, vous trouverez <br>Un CV en anglais et en français.</p>
+
               </div>
               <div class="overlay-detail text-center">
                   <a href="#cv"><i class="fa fa-angle-down"></i></a>

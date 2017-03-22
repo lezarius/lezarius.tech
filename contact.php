@@ -7,8 +7,9 @@
           <div class="row">
             <div class="col-md-12 wow fadeIn delay-05s">
               <div class="banner-text">
-                <h2>Une question ? Un travail ? N'hésitez pas, contactez-moi !</h2>
-
+                <h2>Une question ? Une offre d'emploi ?</h2>
+                <h2>N'hésitez pas, contactez-moi !</h2>
+                
               </div>
               <div class="overlay-detail text-center">
                   <a href="#cv"><i class="fa fa-angle-down"></i></a>
@@ -17,8 +18,7 @@
           </div>
           </div>
         </div>
-        </div>
-      </div>
+        
   <section id="cv" class="section-padding wow fadeIn delay-05s">
     <div class="container">
       <div class="row">
