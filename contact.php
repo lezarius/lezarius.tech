@@ -30,7 +30,7 @@
         <div class="col-md-6 text-left">
           <div class="about-text">
           <h3>Mail :</h3>
-      <p><a href="mailto:ronce@lezarius.tech">ronce@infra-rm.xyz</a></p>
+      <p><a href="mailto:lezariusscience@gmail.com">lezariusscience@gmail.com</a></p>
           <h3>Téléphone :</h3>
       <p>Mon téléphone, <a href="tel:+33753345477">07 53 34 54 77</a>, uniquement en appel. De 9h à 19h.</p>
           </div>
