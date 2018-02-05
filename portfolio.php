@@ -47,7 +47,8 @@
       <p>Le blog utilise le CMS ghost. Les technologies utilisées sont node.js pour ghost, nginx pour liée le blog au nom de domaine, et mariaDB pour la base de donné.</p>
 
       
-
+</div>
+</div>
  
 
 
