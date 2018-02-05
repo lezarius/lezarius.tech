@@ -46,12 +46,9 @@
       <p><a href="http://blog.lezarius.science/">blog.lezarius.science</a> est un blog personnel, je parle de tout et n'importe quoi dessus. Les article sont disponibles sur <a href="https://github.com/lezarius/blogPost">github</a></p>
       <p>Le blog utilise le CMS ghost. Les technologies utilisées sont node.js pour ghost, nginx pour liée le blog au nom de domaine, et mariaDB pour la base de donné.</p>
 
-      <h3>Lezarius.science</h3>
-      <p><a href="http://www.lezarius.science">lezarius.science</a> est mon site perso, <a href="https://github.com/lezarius/Lezarius">code source</a> disponible</p>
-      <p>Les techno utilisées pour l'hebergement sont le combo php-fpm(v7) + Nginx</p>         
+      
 
-          </div>
-        </div>
+ 
 
 
 
